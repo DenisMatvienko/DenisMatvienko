@@ -44,14 +44,13 @@
 [<img align="left" alt="denis-matvienko | LinkedIn" width="78px" src="https://s1.livelib.ru/boocover/1001235402/o/a581/Swaroop_C_H__A_Byte_of_Python.jpeg" />][A_byte_of_python]
 [<img align="left" alt="denis-matvienko | LinkedIn" width="78px" src="https://pbs.twimg.com/profile_images/1210100730247430144/6yncfskW_400x400.jpg" />][MIPT]
 [<img align="left" alt="denis-matvienko | LinkedIn" width="80px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />][Django]
-
-<br />
 <br />
 
 ---
+####My Git stats:
 ![Denis github stats](https://github-readme-stats.vercel.app/api?username=DenisMatvienko&hide=stars,prs)
 <br />
-<br />
+
 
 
 [vk]: https://vk.com/dmatvienkoo
