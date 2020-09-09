@@ -4,7 +4,7 @@
 ## I'm Full Stack, Backend Django Developer
 
 - 🌱 I’m currently learning everything, and I don't scare to learn something new 🤣
-- 🔭 I’m currently working on a e-commerce website!
+- 🔭 I’m currently working on developing a e-commerce, cart functionality market
 - 👯 I’m looking to collaborate with other developers
 - ⚡ I love active lifestyle & train in the gym
 
@@ -12,9 +12,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="denis-matvienko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="denis-matvienko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/vk.svg" />][vk]
-
+[<img align="left" alt="denis-matvienko | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="denis-matvienko | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" />][vk]
+[<img align="left" alt="denis-matvienko | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />][instagram]
+<br />
 
 ### Languages and Tools:
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
@@ -38,10 +39,25 @@
 <br />
 
 
+### My favorite literature sources & learning material:
+[<img align="left" alt="denis-matvienko | LinkedIn" width="80px" src="https://img1.labirint.ru/bookstore/books/713013/big.jpg" />][Learning_python]
+[<img align="left" alt="denis-matvienko | LinkedIn" width="78px" src="https://s1.livelib.ru/boocover/1001235402/o/a581/Swaroop_C_H__A_Byte_of_Python.jpeg" />][A_byte_of_python]
+[<img align="left" alt="denis-matvienko | LinkedIn" width="78px" src="https://pbs.twimg.com/profile_images/1210100730247430144/6yncfskW_400x400.jpg" />][MIPT]
+[<img align="left" alt="denis-matvienko | LinkedIn" width="80px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />][Django]
 
+<br />
+<br />
 
-
+---
+![Denis github stats](https://github-readme-stats.vercel.app/api?username=DenisMatvienko&hide=stars,prs)
+<br />
+<br />
 
 
 [vk]: https://vk.com/dmatvienkoo
 [linkedin]: https://www.linkedin.com/in/denis-matvienko-bb8bb81a2/
+[instagram]: https://www.instagram.com/matvienkoda/
+[Learning_python]: https://www.ozon.ru/context/detail/id/156082566/?utm_source=google&utm_medium=cpc&utm_campaign=RF_Product_Shopping_Books_newclients&gclid=CjwKCAjw19z6BRAYEiwAmo64LeEsszjFSgF337_pkZ54TWUync-5KAgovAwGNgQtLYR120t3mzIP1BoCh58QAvD_BwE
+[A_byte_of_python]: http://wombat.org.ua/AByteOfPython/AByteofPythonRussian-2.02.pdf
+[Django]:https://docs.djangoproject.com/en/dev/
+[MIPT]:https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY
