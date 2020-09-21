@@ -13,8 +13,6 @@
 ### Connect with me:
 
 [<img align="left" alt="denis-matvienko | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
-[<img align="left" alt="denis-matvienko | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" />][vk]
-[<img align="left" alt="denis-matvienko | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />][instagram]
 <br />
 
 ### My favorite literature sources & learning material:
