@@ -1,7 +1,7 @@
 ### Hi there, I'm Denis 👋
 
 
-## I'm Full Stack, Backend Django Developer
+## I'm Backend Django Developer
 
 - 🌱 I’m currently learning everything, and I don't scare to learn something new 🤣
 - 🔭 I’m currently working on developing a e-commerce, cart functionality market
