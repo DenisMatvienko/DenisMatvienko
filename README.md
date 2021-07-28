@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="denis-matvienko | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
+####⚡⚡⚡ Grabsomebuds27@gmail.com
 <br />
 
 ### My favorite literature sources & learning material:
