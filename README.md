@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-####⚡⚡⚡ Grabsomebuds27@gmail.com
+#### ⚡⚡⚡ Grabsomebuds27@gmail.com
 <br />
 
 ### My favorite literature sources & learning material:
