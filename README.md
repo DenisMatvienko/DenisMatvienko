@@ -3,13 +3,18 @@
 
 ## I'm Frontend Developer
 
-- 😍 Pain
-- 😍 &
-- 😍 Gain
+  🥵 ` Pain `
+<br />
+  ⏱ ` & `
+<br />
+  💪🏻 ` Gain `
+<br />
+
 
 ### Connect with me:
 
-#### ⚡ Grabsomebuds27@gmail.com ⚡
+#### ⚡ Grabsomebuds27@gmail.com 😍
+***
 
 ### Languages and Tools:
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>
@@ -36,9 +41,10 @@
 <img align="left" alt="Ubuntu" width="26px" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" />
 <img align="left" alt="WebStorm" width="26px" src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+<br />
+<br />
 
-<br />
-<br />
+***
 
 ### Stats:
 ![Denis github stats](https://github-readme-stats.vercel.app/api?username=DenisMatvienko&hide=stars,prs)
