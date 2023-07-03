@@ -1,7 +1,7 @@
 ### Hi there, I'm Denis 👋
 
 
-## I'm Backend Django Developer
+## I'm Frontend Developer
 
 - 🌱 I’m currently learning everything, and I don't scare to learn something new 🤣
 - 🔭 I’m currently working on developing a e-commerce, cart functionality market
@@ -26,7 +26,7 @@
 
 ---
 ### Languages and Tools:
-<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
