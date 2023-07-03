@@ -20,9 +20,9 @@
 <img align="left" alt="Redux" width="26px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"/>
 <img align="left" alt="Webpack" width="26px" src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg"/>
 <img align="left" alt="EsLint" width="26px" src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg"/>
-<img align="left" alt="Jest" width="26px" src="https://cdn.worldvectorlogo.com/logos/jest-2.svg"/>
+<img align="left" alt="Jest" width="26px" src="https://docs.knapsackpro.com/images/blog/posts/run-jest-on-github-actions-with-parallelization/jest.png"/>
 <img align="left" alt="Loki" width="26px" src="https://loki.js.org/img/favicon.svg"/>
-<img align="left" alt="Storybook" width="26px" src="https://cdn.worldvectorlogo.com/logos/storybook-1.svg"/>
+<img align="left" alt="Storybook" width="26px" src="https://www.pngfind.com/pngs/m/493-4934627_storybook-icon-ddf01037-storybook-js-hd-png-download.png"/>
 <img align="left" alt="FeaturedSlisedDesign" width="26px" src="https://feature-sliced.design/img/brand/logo-primary.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
