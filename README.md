@@ -23,6 +23,8 @@
 <img align="left" alt="Storybook" width="26px" src="https://www.pngfind.com/pngs/m/493-4934627_storybook-icon-ddf01037-storybook-js-hd-png-download.png"/>
 <img align="left" alt="FeaturedSlisedDesign" width="26px" src="https://feature-sliced.design/img/brand/logo-primary.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
+<br />
+<br />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
 <img align="left" alt="Sass/Scss" width="26px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" />
@@ -35,6 +37,7 @@
 <img align="left" alt="WebStorm" width="26px" src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
 
+<br />
 <br />
 
 ### Stats:
