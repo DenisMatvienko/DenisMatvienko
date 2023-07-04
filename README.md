@@ -46,8 +46,8 @@
 
 ***
 
-### Stats:
-![Denis github stats](https://github-readme-stats.vercel.app/api?username=DenisMatvienko&hide=stars,prs)
+### Favorite repo:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenisMatvienko&repo=production-dynamic-line&theme=shades-of-purple)](https://github.com/DenisMatvienko/production-dynamic-line)
 
 
 
